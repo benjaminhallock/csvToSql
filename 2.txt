@@ -1,0 +1,127 @@
+Year,Location,Medal,Artist,FigureName,Category
+2024,Chicago AdeptiCon,Gold,Neil Hollis,Exodite,"Warhammer 40000: Single Miniature"
+2024,Chicago AdeptiCon,Silver,Lee Jeonghoon,Illuminor Szeras,"Warhammer 40000: Single Miniature"
+2024,Chicago AdeptiCon,Bronze,Kwan Ho Kim,High Marshal Helbrecht,"Warhammer 40000: Single Miniature"
+2024,Chicago AdeptiCon,Gold,Kwan Ho Kim,Black Templars,"Warhammer 40000: Unit or Kill Team"
+2024,Chicago AdeptiCon,Silver,Sam Lenz,Beast Snagga Boyz,"Warhammer 40000: Unit or Kill Team"
+2024,Chicago AdeptiCon,Bronze,Lee Jeonghoon,Ultramarines,"Warhammer 40000: Unit or Kill Team"
+2024,Chicago AdeptiCon,Gold,Julien Charbonneau-Gravel,Vashtorr the Arkifane,"Warhammer 40000: Large Model Or Vehicle"
+2024,Chicago AdeptiCon,Silver,Jesus Valera Navarro,Leman Russ Battle Tank,"Warhammer 40000: Large Model Or Vehicle"
+2024,Chicago AdeptiCon,Bronze,Ellis Kaye,Myphitic Blight-hauler,"Warhammer 40000: Large Model Or Vehicle"
+2024,Chicago AdeptiCon,Gold,David Ugolini,Lord of Hubris,Age of Sigmar: Single Miniature
+2024,Chicago AdeptiCon,Silver,Dimosthenis Xylas,"Radukar, The Beast",Age of Sigmar: Single Miniature
+2024,Chicago AdeptiCon,Bronze,Andy Wardle,Freeguild Marshal,Age of Sigmar: Single Miniature
+2024,Chicago AdeptiCon,Gold,Michael Thomas,Saurus Warriors,Age of Sigmar: Unit or Warcry Warband
+2024,Chicago AdeptiCon,Silver,Nikolas Rubens Mortensen,Maggotkin of Nurgle,Age of Sigmar: Unit or Warcry Warband
+2024,Chicago AdeptiCon,Bronze,Jon Ninas,Cities of Sigmar,Age of Sigmar: Unit or Warcry Warband
+2024,Chicago AdeptiCon,Gold,Rubén Martínez,Alarielle the Everqueen,Age of Sigmar: Large Model or War Machine
+2024,Chicago AdeptiCon,Silver,Liam Hopkins,Orpheon Katakros,Age of Sigmar: Large Model or War Machine
+2024,Chicago AdeptiCon,Bronze,Kelsey Graham,Vengorian Lord,Age of Sigmar: Large Model or War Machine
+2024,Chicago AdeptiCon,Gold,Marco Frisoni,Thranduil,Middle-Earth
+2024,Chicago AdeptiCon,Silver,Kamil Kozyra,Easterling,Middle-Earth
+2024,Chicago AdeptiCon,Bronze,Neil Hollis,Goblin,Middle-Earth
+2024,Chicago AdeptiCon,Gold,David Ugolini,Perturabo,Warhammer: The Horus Heresy
+2024,Chicago AdeptiCon,Silver,Matthew Cantor,Night Lord,Warhammer: The Horus Heresy
+2024,Chicago AdeptiCon,Bronze,Aaron Clark,Horus,Warhammer: The Horus Heresy
+2024,Chicago AdeptiCon,Gold,David Ugolini,Sons of Velmorn,Warhammer: Underworlds
+2024,Chicago AdeptiCon,Silver,Johan Van Beers,Hedkrakka's Madmob,Warhammer: Underworlds
+2024,Chicago AdeptiCon,Bronze,Liam Hopkins,Gnarlspirit,Warhammer: Underworlds
+2024,Chicago AdeptiCon,Gold,Wei Hui,Goliath Gang,Necromunda
+2024,Chicago AdeptiCon,Silver,Clayton Correia,Cawdor Gang,Necromunda
+2024,Chicago AdeptiCon,Bronze,James Taro,Vartijan Exo-Drille,Necromunda
+2024,Chicago AdeptiCon,Gold,Nikolas Rubens Mortensen,Bilerot Vomitflesh,Blood Bowl
+2024,Chicago AdeptiCon,Silver,Bob Cohoon,Greenfield Grasshuggers,Blood Bowl
+2024,Chicago AdeptiCon,Bronze,Kamil Kozyra,Count Luthor von Drakenborg,Blood Bowl
+2024,Chicago AdeptiCon,Gold,James Taro,Reaver Titan,Epic Scale
+2024,Chicago AdeptiCon,Silver,Fletcher Giles,Tiger Shark,Epic Scale
+2024,Chicago AdeptiCon,Bronze,Alexis L'Huillier,Thunderbolt,Epic Scale
+2024,Chicago AdeptiCon,Gold,Nikolas Rubens Mortensen,Troll,Warhammer: The Old World
+2024,Chicago AdeptiCon,Silver,Raphael Boyon,Bohemond,Warhammer: The Old World
+2024,Chicago AdeptiCon,Bronze,Andrew Waxtel,Freeguild Cavalier-Marshal,Warhammer: The Old World
+2024,Chicago AdeptiCon,Gold,Alexandre Dos Santos,The Hollow King,Diorama & Duel
+2024,Chicago AdeptiCon,Silver,Benjamin Kantor,Space Hulk,Diorama & Duel
+2024,Chicago AdeptiCon,Bronze,James Taro,Gimme Da Shoot,Diorama & Duel
+2024,Chicago AdeptiCon,Gold,Ben Trentacoste,Thunder Valley Greenskins,Young Bloods
+2024,Chicago AdeptiCon,Silver,Xander Madou,"Eternus, Blade of The First Prince",Young Bloods
+2024,Chicago AdeptiCon,Bronze,Rowan Macdonald,Merek Grimaldus,Young Bloods
+2024,Chicago AdeptiCon,Gold,Matthew Kennedy,Skink Starseer,The Open Competition
+2024,Chicago AdeptiCon,Silver,Richard Gray,Loonboss on Giant Cave Squig,The Open Competition
+2024,Chicago AdeptiCon,Bronze,Jeffrey Harrison Bowden,Jain Zar,The Open Competition
+2023,Chicago AdeptiCon,Gold,Neil Hollis,Master Lazarus,"Warhammer 40000: Single Miniature"
+2023,Chicago AdeptiCon,Silver,Alexandre Dos Santos,"Jaghatai Khan, Primarch of The White Scars","Warhammer 40000: Single Miniature"
+2023,Chicago AdeptiCon,Bronze,James Taro,Rocket Grot Squig-Cycle,"Warhammer 40000: Single Miniature"
+2023,Chicago AdeptiCon,Gold,Nikolas Rubens Mortensen,Astra Militarum,"Warhammer 40000: Squad"
+2023,Chicago AdeptiCon,Silver,Mohamed Aït-Mehdi,Corsair Voidscarred,"Warhammer 40000: Squad"
+2023,Chicago AdeptiCon,Bronze,John Carter,Necromunda Gang,"Warhammer 40000: Squad"
+2023,Chicago AdeptiCon,Gold,Ivan Bocic,Knight Valiant,"Warhammer 40000: Vehicle"
+2023,Chicago AdeptiCon,Silver,Colin Eidenschink,Penitent Engine,"Warhammer 40000: Vehicle"
+2023,Chicago AdeptiCon,Bronze,Steve Garcia,Ultramarines Leviathan Dreadnought,"Warhammer 40000: Vehicle"
+2023,Chicago AdeptiCon,Gold,Ellis Kaye,Hive Tyrant,"Warhammer 40000: Large Model"
+2023,Chicago AdeptiCon,Silver,Ian Stanley,Unknown,"Warhammer 40000: Large Model"
+2023,Chicago AdeptiCon,Bronze,Adrian Pech,The Yncarne,"Warhammer 40000: Large Model"
+2023,Chicago AdeptiCon,Gold,Andy Wardle,"Glutos Orscollion, Lord of Gluttony",Warhammer: Age of Sigmar Single Miniature
+2023,Chicago AdeptiCon,Silver,Todd Swanson,Unknown,Warhammer: Age of Sigmar Single Miniature
+2023,Chicago AdeptiCon,Bronze,Piotr Czajka,Ogor Mawtribes Tyrant,Warhammer: Age of Sigmar Single Miniature
+2023,Chicago AdeptiCon,Gold,Michael Thomas,Chosen,Warhammer: Age of Sigmar Unit
+2023,Chicago AdeptiCon,Silver,Colin Eidenschink,Unknown,Warhammer: Age of Sigmar Unit
+2023,Chicago AdeptiCon,Bronze,John Margiotta,Nurgle Lords,Warhammer: Age of Sigmar Unit
+2023,Chicago AdeptiCon,Gold,Colin Eidenschink,"Kragnos, the End of Empires",Warhammer: Age of Sigmar Large Model
+2023,Chicago AdeptiCon,Silver,Katarzyna Górska,Mega-Gargant,Warhammer: Age of Sigmar Large Model
+2023,Chicago AdeptiCon,Bronze,Raphael Boyon,Mangler Squigs,Warhammer: Age of Sigmar Large Model
+2023,Chicago AdeptiCon,Gold,Benjamin Kantor,Horus vs The Emperor,Diorama & Battle Scene
+2023,Chicago AdeptiCon,Silver,Oscar Lars,Unknown,Diorama & Battle Scene
+2023,Chicago AdeptiCon,Bronze,Piotr Czajka,Unknown,Diorama & Battle Scene
+2023,Chicago AdeptiCon,Gold,Sergio Calvo,Mangler Squigs vs Bretonnain Man,Duel
+2023,Chicago AdeptiCon,Silver,Eric McCartney,Drazhar vs Howling Banshee,Duel
+2023,Chicago AdeptiCon,Bronze,Federico Rovida,Stormdrake Guard vs Kraken-eater Mega-Gargant,Duel
+2023,Chicago AdeptiCon,Gold,Andy Wardle,"Elrond, Master of Rivendell",Middle-Earth
+2023,Chicago AdeptiCon,Silver,Alexandre Dos Santos,"Théoden, King of Rohan",Middle-Earth
+2023,Chicago AdeptiCon,Bronze,Alexis L'Huillier,Gandalf the White and Peregrin Took,Middle-Earth
+2023,Chicago AdeptiCon,Gold,Colin Eidenschink,Astra Militarum Vulture Gunships,Small Scale
+2023,Chicago AdeptiCon,Silver,Aaron Call,Imperial Navy Arvus Lighter,Small Scale
+2023,Chicago AdeptiCon,Bronze,James Taro,Warmaster Iconoclast Heavy Battle Titan,Small Scale
+2023,Chicago AdeptiCon,Gold,Evan Krumlauf,Marneus Calgar,Young Bloods
+2023,Chicago AdeptiCon,Silver,Lukas Anderson,Breaka-boss on Mirebrute Troggoth,Young Bloods
+2023,Chicago AdeptiCon,Bronze,Lucas Franzoni,"Angron, Daemon Primarch of Khorne",Young Bloods
+2023,Chicago AdeptiCon,Gold,Sergio Calvo,Ork,The Open Competition
+2023,Chicago AdeptiCon,Silver,Neil Hollis,Dark Eldar Archon,The Open Competition
+2023,Chicago AdeptiCon,Bronze,Erik Swinson,Imperial Fist,The Open Competition
+2022,Chicago AdeptiCon,Gold,Robin McLeod,Kor'sarro Khan,"Warhammer 40000: Single Miniature"
+2022,Chicago AdeptiCon,Silver,Steve Garcia,Master Lazarus,"Warhammer 40000: Single Miniature"
+2022,Chicago AdeptiCon,Bronze,Alexandre Dos Santos,Eisenbrecht,"Warhammer 40000: Single Miniature"
+2022,Chicago AdeptiCon,Gold,Andy Wardle,Saint Celestine,"Warhammer 40000: Squad"
+2022,Chicago AdeptiCon,Silver,Nikolas Rubens Mortensen,Black Templars,"Warhammer 40000: Squad"
+2022,Chicago AdeptiCon,Bronze,Matthew Avis,Blood Angels,"Warhammer 40000: Squad"
+2022,Chicago AdeptiCon,Gold,John Margiotta,Nurgle Leviathan,"Warhammer 40000: Vehicle"
+2022,Chicago AdeptiCon,Silver,Will Hahn,Morvenn Vahl,"Warhammer 40000: Vehicle"
+2022,Chicago AdeptiCon,Bronze,Alexis L'Huillier,Imperial Fist Contemptor,"Warhammer 40000: Vehicle"
+2022,Chicago AdeptiCon,Gold,James Cordwell,Illuminor Szeras,"Warhammer 40000: Large Model"
+2022,Chicago AdeptiCon,Silver,Martyn Evans,Mortarion,"Warhammer 40000: Large Model"
+2022,Chicago AdeptiCon,Bronze,Sam Lenz,Ghazghkull Thraka,"Warhammer 40000: Large Model"
+2022,Chicago AdeptiCon,Gold,Gavin Garza,Huachi,Warhammer: Age of Sigmar Single Miniature
+2022,Chicago AdeptiCon,Silver,Katarzyna Górska,"Sigvald, Prince of Slaanesh",Warhammer: Age of Sigmar Single Miniature
+2022,Chicago AdeptiCon,Bronze,Robin McLeod,Ghulgoch the Butcher,Warhammer: Age of Sigmar Single Miniature
+2022,Chicago AdeptiCon,Gold,Robin McLeod,The Crimson Court,Warhammer: Age of Sigmar Unit
+2022,Chicago AdeptiCon,Silver,Mamikon Khachikyan,Chaos Knights,Warhammer: Age of Sigmar Unit
+2022,Chicago AdeptiCon,Bronze,Anthony Wang,Sepulchral Guard,Warhammer: Age of Sigmar Unit
+2022,Chicago AdeptiCon,Gold,Alexis L'Huillier,Mindstealer Sphiranx,Warhammer: Age of Sigmar Large Model
+2022,Chicago AdeptiCon,Silver,David Paz,Loonboss on Mangler Squigs,Warhammer: Age of Sigmar Large Model
+2022,Chicago AdeptiCon,Bronze,Sam Lenz,The Great Unclean One,Warhammer: Age of Sigmar Large Model
+2022,Chicago AdeptiCon,Gold,Andy Wardle,Hallowed Ground,Diorama & Battle Scene
+2022,Chicago AdeptiCon,Silver,David Paz,And They Shall Know No Fear,Diorama & Battle Scene
+2022,Chicago AdeptiCon,Bronze,Mamikon Khachikyan,"Battle for Ophelia VII, Indomitus Crusade",Diorama & Battle Scene
+2022,Chicago AdeptiCon,Gold,Steve Garcia,Lion el'jonson vs Leman Russ,Duel
+2022,Chicago AdeptiCon,Silver,Ben Komets,Sanguinius vs Ka'Bandha,Duel
+2022,Chicago AdeptiCon,Bronze,Andy Wardle,Loonbos vs Sylvaneth Arch Revenant,Duel
+2022,Chicago AdeptiCon,Gold,James Cordwell,King of the Dead,Middle-Earth
+2022,Chicago AdeptiCon,Silver,Federico Rovida,Aragon,Middle-Earth
+2022,Chicago AdeptiCon,Bronze,Matt Cexwish,Radagast the Brown,Middle-Earth
+2022,Chicago AdeptiCon,Gold,James Cordwell,Imperial Navy Thunderbolt Fighter,Small Scale
+2022,Chicago AdeptiCon,Silver,Sam Lenz,Warmaster Titan,Small Scale
+2022,Chicago AdeptiCon,Bronze,Mamikon Khachikyan,Xiphon Interceptor,Small Scale
+2022,Chicago AdeptiCon,Gold,Luca Franzoni,Megaboss on Maw-krusha,Young Bloods
+2022,Chicago AdeptiCon,Silver,Gavin Grehier,Unknown,Young Bloods
+2022,Chicago AdeptiCon,Bronze,Unawarded,Unawarded,Young Bloods
+2022,Chicago AdeptiCon,Gold,Erik Swinson,"Mephiston, Lord of Death",The Open Competition
+2022,Chicago AdeptiCon,Silver,Chris Borer,World Eaters Contemptor Dreadnought,The Open Competition
+2022,Chicago AdeptiCon,Bronze,John Margiotta,Grot Tanks!,The Open Competition

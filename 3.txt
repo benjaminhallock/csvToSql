@@ -1,0 +1,33 @@
+Year,Location,Medal,Artist,Figure Name,Category
+2018,Warhammer Fest Europe,Silver,Tom Barmby,Elucidian Starstriders – Voidsman,Warhammer 40000 Single Miniature
+2018,Warhammer Fest Europe,Bronze,Kosma Rabiega,Houston we have a problem,Unbound
+2018,Warhammer Fest Europe,Gold,Chesnel Vivien,Gretchin,Warhammer 40000 Squad
+2018,Warhammer Fest Europe,Gold,Freddie Lifton,Poxshambler,Youngbloods
+2018,Warhammer Fest Europe,Gold,Stefan Johnsson,Gellerpox Infected – Nightmare Hulk,Warhammer 40000 Large Model
+2018,Warhammer Fest Europe,Gold,Lewis Collins,Killa Kan,Warhammer 40000 Vehicle
+2018,Warhammer Fest Europe,Bronze,Michael Boonk,Dark Angels Redempter,Warhammer 40000 Vehicle
+2018,Warhammer Fest Europe,Silver,Mark Lifton,Chaos Renegade vs Kabalite,Duel
+2018,Warhammer Fest Europe,Gold,Adie Bay,Magnus the Ogryn,Unbound
+2018,Warhammer Fest Europe,Gold,Adie Bay,Wulfen Fury,Duel
+2018,Golden Demon Classic,Gold,Edgar Ramos,Deamon Prince,Warhammer 40000 Large Model
+2018,Golden Demon Classic,Silver,Richard Gray,Fulgrim the Phoenician,Warhammer 40000 Single Miniature
+2018,Golden Demon Classic,Bronze,David Soper,Death Guard Terminator,Warhammer 40000 Single Miniature
+2018,Golden Demon Classic,Gold,Matt Schuchman,Cadian Master of Ordnance,Warhammer 40000 Squad
+2018,Golden Demon Classic,Silver,Paul Norton,Necron Triarch Praetorian,Warhammer 40000 Large Model
+2018,Golden Demon Classic,Gold,Darren Latham,Imperial Knight,Warhammer 40000 Vehicle
+2018,Golden Demon Classic,Silver,Andy Wardle,Armiger Helverin,Warhammer 40000 Vehicle
+2018,Golden Demon Classic,Gold,John Simmons,Tau Battlesuit Commander,Warhammer 40000 Large Model
+2018,Golden Demon Classic,Silver,Richard Gray,Magnus the Red,Warhammer 40000 Single Miniature
+2018,Golden Demon Classic,Bronze,Louis Hunter,Ork Weirdboy,Warhammer 40000 Single Miniature
+2018,Golden Demon Classic,Gold,Richard Gray,Fir Bolg Standard Bearer,Duel
+2018,Golden Demon Classic,Silver,Tom Walton,The Glottkin,Duel
+2018,Golden Demon Classic,Bronze,David Soper,Ork Warboss,Duel
+2018,Golden Demon Classic,Gold,James Karch,Abaddon the Despoiler,Warhammer 40000 Single Miniature
+2018,Golden Demon Classic,Silver,Richard Gray,Knight Crusader,Warhammer 40000 Vehicle
+2018,Golden Demon Classic,Bronze,David Soper,Eversor Assassin,Warhammer 40000 Single Miniature
+2018,Golden Demon Classic,Gold,Richard Gray,Adeptus Custodes Jetbike,Warhammer 40000 Large Model
+2018,Golden Demon Classic,Silver,Darren Latham,Imperial Knight Paladin,Warhammer 40000 Large Model
+2018,Golden Demon Classic,Bronze,Tom Walton,Space Marine Dreadnought,Warhammer 40000 Vehicle
+2018,Golden Demon Classic,Gold,David Soper,Chaos Renegade Sorcerer,Warhammer 40000 Single Miniature
+2018,Golden Demon Classic,Silver,Richard Gray,Lord of Contagion,Warhammer 40000 Large Model
+2018,Golden Demon Classic,Bronze,David Soper,Dark Angels Space Marine,Warhammer 40000 Single Miniature

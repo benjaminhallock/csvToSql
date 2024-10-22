@@ -1,0 +1,61 @@
+Event_id,Event_name,Location,Event_date
+1,Adepticon Golden Demon,Schaumburg IL USA,March
+2,Atlanta Military Figure Society Show,Atlanta GA USA,February
+3,Coulee Con The DAWG Show Miniature Painting Contest,La Crosse WI USA,August
+4,Dragon Fall Contest Info,Lake Geneva WI USA,October
+5,Euro Miniature Expo Euro Militaire,Folkstone UK USA,January
+6,Euro Model Expo,Berlin Germany,Various Dates
+7,Euroma,Rome Italy,Various Dates
+8,FreakWars Madrid Miniature Painting Competition,Madrid Spain,September
+9,Gen Con Hobby Class Events,Indianapolis IN USA,August
+10,Hammerhead Painting Competition,Newark UK,March
+11,Historicon Painting Contest,Lancaster PA USA,July
+12,Houston Miniature Arts Painting Competition,Houston TX USA,September
+13,IPMS Shows,Chicago IL USA,Various Dates
+14,KublaCon Miniature Painting Contest,San Francisco CA USA,May
+15,Las Vegas Open Miniature Contests,Las Vegas NV USA,January
+16,Miniature Collectors of America Shows,Boston MA USA,Various Dates
+17,Model Expo Italy,Verona Italy,March
+18,Moson Show,Mosonmagyaróvár Hungary,April
+19,Nova Open Information,Arlington VA USA,August-September
+20,ORCCON Painting Contest,Los Angeles CA USA,February
+21,Origins Painting Contest,Columbus OH USA,June
+22,Polar Vortex Miniature Painting and Modeling Competition,Lisle IL USA,February
+23,ReaperCon Painting Contest,Denton TX USA,August-September
+24,SOLDAT de PLOM Painting Contest,Girona Spain,October
+25,TantrumCon Miniature Painting Contest,Charlotte NC USA,January
+26,The Long Island Miniatures Model Show,New York NY USA,November
+27,The Mug and Meeple Painting Competition 2023,London UK,August
+28,Warfaire Weekend Painting Contest,St. Louis MO USA,November
+29,Warhammer Fest Europe,Manchester Central UK,April
+30,World Model Expo 2022,Veldhoven The Netherlands,Various Dates
+31,OctoPainting,Paris France,February
+32,Big Child Painting Royale,Online,March
+33,Eavier Metal,Online,April
+34,Armies on Parade,San Diego CA USA,June
+35,Crystal Brush,Chicago IL USA,July
+36,Euro Militaire,London UK,August
+37,Everchosen,Toronto Canada,September
+38,Golden Demon Classic,Manchester UK,October
+39,IronSkull,New York NY USA,April
+40,Miniature Painting Open,Orlando FL USA,June
+41,Minipainting Contest,Online,May
+42,P3 Grandmaster,Dallas TX USA,March
+43,Polar Vortex’s Miniature Painting & Modeling Competition,Chicago IL USA,May
+44,Resin Beast,Las Vegas NV USA,July
+45,Sol Showdown,Phoenix AZ USA,September
+46,The Warhammer Community Painting Competition,Online,October
+47,Verbania Model Show,Milan Italy,March
+48,Wyrd Painting Contests,San Francisco CA USA,May
+49,Resin Beast,Los Angeles CA USA,June
+50,Path of the Worthy,Boston MA USA,April
+51,Reaper Miniatures Painting Contests,Online,August
+52,Chicago AdeptiCon,Schaumburg IL USA,March
+53,RESIN BEAST Competition,Las Vegas NV USA,July
+54,MSP Open,Denton TX USA,August
+55,Nova Open,Washington D.C. USA,September
+56,IPMS National Convention,San Marcos TX USA,July
+57,LVO (Las Vegas Open),Las Vegas NV USA,February
+58,World Model Expo,Eindhoven Netherlands,June
+59,Salute,London UK,March
+60,BrisCon,Brisbane Australia,November
