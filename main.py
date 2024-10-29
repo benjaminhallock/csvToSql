@@ -7,30 +7,30 @@ def write_to_file(content, filename="output.sql"):
 
 def create_tables():
     create_event_table = """CREATE TABLE IF NOT EXISTS Event (
-        eid INTEGER PRIMARY KEY AUTOINCREMENT,
-        name TEXT,
-        location TEXT,
-        month TEXT
+        eid INT PRIMARY KEY AUTO_INCREMENT,
+        name VARCHAR(255),
+        location VARCHAR(255),
+        month VARCHAR(255)
     );"""
 
     create_participant_table = """CREATE TABLE IF NOT EXISTS Participant (
-        pid INTEGER PRIMARY KEY AUTOINCREMENT,
-        fname TEXT,
-        lname TEXT
+        pid INT PRIMARY KEY AUTO_INCREMENT,
+        fname VARCHAR(255),
+        lname VARCHAR(255)
     );"""
 
     create_model_table = """CREATE TABLE IF NOT EXISTS Model (
-        mid INTEGER PRIMARY KEY AUTOINCREMENT,
-        name TEXT
+        mid INT PRIMARY KEY AUTO_INCREMENT,
+        name VARCHAR(255)
     );"""
 
     create_medal_table = """CREATE TABLE IF NOT EXISTS Medal (
-        Category TEXT,
-        Year TEXT,
-        Award TEXT,
-        mid INTEGER,
-        pid INTEGER,
-        eid INTEGER,
+        Category VARCHAR(255),
+        Year VARCHAR(255),
+        Award VARCHAR(255),
+        mid INT,
+        pid INT,
+        eid INT,
         FOREIGN KEY (eid) REFERENCES Event(eid),
         FOREIGN KEY (pid) REFERENCES Participant(pid),
         FOREIGN KEY (mid) REFERENCES Model(mid),
@@ -100,15 +100,15 @@ def process_participants_and_models(file, event_id_map):
                     model_insert = f'INSERT INTO Model (name) VALUES (\'{miniature_name}\');'
                     write_to_file(model_insert)
                     model_id_map[miniature_name] = len(model_id_map) + 1
+               
                 mid = model_id_map[miniature_name]  # Retrieve model ID
-
                 # Check for existing medal entry to avoid duplicates
                 medal_key = (mid, pid, event_id)
                 if medal_key not in model_id_map:
                     # Insert into Medal
                     medal_insert = f'INSERT INTO Medal (Category, Year, Award, mid, pid, eid) VALUES (\'{category}\', \'{year}\', \'{medal}\', {mid}, {pid}, {event_id});'
                     write_to_file(medal_insert)
-                    model_id_map[medal_key] = True  # Mark this medal key as used
+                    # model_id_map[medal_key] = True  # Mark this medal key as used
                 else:
                     print(f"Duplicate medal entry for {miniature_name}, {participant_name}, {event_id}. Skipping insertion.")
             else:
